@@ -8,3 +8,4 @@ dist/
 venv/
 data/assessments.json
 .env
+README.md
