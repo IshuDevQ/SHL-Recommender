@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+.pytest_cache/
+*.egg-info/
+dist/
+.venv/
+venv/
+data/assessments.json
+.env
